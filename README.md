@@ -1,8 +1,6 @@
-# custom-PPO-Notebook
-[Notebook](https://github.com/carter4299/custom-PPO-Notebook/blob/main/PPORunner.ipynb)
-## PPORunner
-Runs with real time data \
-Models from [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt/tree/master)
+# [Custom Portfolio Optimizer](https://github.com/carter4299/custom-PPO-Notebook/blob/main/PPORunner.ipynb)
+### Runs with real time data 
+### Models from [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt/tree/master)
 
 ## Trying to get a free updater without hosting a server
 ### Scheduled to run locally every day at 6pmET MTWRF as of now
