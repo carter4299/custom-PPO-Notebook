@@ -1,5 +1,6 @@
 # custom-PPO-Notebook
-Colab Notebook to run real time portfolio analysis using [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt/tree/master)
+Runs with real time data \
+Models from [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt/tree/master)
 
 ## Trying to get a free updater without hosting a server
 ### Scheduled to run locally every day at 6pmET MTWRF as of now
