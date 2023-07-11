@@ -5,8 +5,8 @@ Can be any alpha release of Maven, but if I download Java 19.0.1 instead of 19 t
 
 [Maven 4.0.0](https://maven.apache.org/download.cgi#Installation) \
 [Java 19](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html) \
-> ^ \
->| \
->| \
->| \
+>^ \
+> | \
+> | \
+> | \
 >---------------- Dependencies
