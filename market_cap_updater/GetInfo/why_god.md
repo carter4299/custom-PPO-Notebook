@@ -9,4 +9,4 @@ Can be any alpha release of Maven, but if I download Java 19.0.1 instead of 19 t
 | \
 | \
 | \
-  ---------------- Dependencies
+>blockquote---------------- Dependencies
