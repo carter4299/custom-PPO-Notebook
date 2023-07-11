@@ -1,5 +1,5 @@
 # custom-PPO-Notebook
-
+[Notebook](https://github.com/carter4299/custom-PPO-Notebook/blob/main/PPORunner.ipynb)
 ## PPORunner
 Runs with real time data \
 Models from [PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt/tree/master)
